@@ -1,0 +1,66 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "produto": "Calça jeans",
+      "foto": "https://lojasgang.vteximg.com.br/arquivos/ids/276463/38030178-2.jpg?v=637388565944100000",
+      "descricao": "Calca skiny, tamanho 38, coleção inverno 2021, azul escuro com detalhes na lavagem",
+      "valor": "350,00",
+      "categoria_id": "1",
+      "empresa_id": "2"
+    },
+    {
+      "id": 3,
+      "produto": "Calça jeans3",
+      "foto": "https://lojasgang.vteximg.com.br/arquivos/ids/276463/38030178-2.jpg?v=637388565944100000",
+      "descricao": "Imagem 3 Calca skiny, tamanho 38, coleção inverno 2021, azul escuro com detalhes na lavagem",
+      "valor": "3350,00",
+      "categoria_id": "1",
+      "empresa_id": "2"
+    },
+    {
+      "id": 4,
+      "produto": "Calça jeans4",
+      "foto": "https://lojasgang.vteximg.com.br/arquivos/ids/276463/38030178-2.jpg?v=637388565944100000",
+      "descricao": "Imagem 4 Calca skiny, tamanho 38, coleção inverno 2021, azul escuro com detalhes na lavagem",
+      "valor": "450,00",
+      "categoria_id": "1",
+      "empresa_id": "2"
+    },
+    {
+      "initialValue": {
+        "produto": "",
+        "foto": "",
+        "descricao": "",
+        "valor": 0,
+        "categoria_id": "",
+        "empresa_id": ""
+      },
+      "produto": "vestido vermelho",
+      "foto": "https://cuplovershop.cdn.plataformaneo.com.br/produto/592311612__ME_0375_592311612.jpg",
+      "descricao": "vestido vermelho tamanho 36/38/40/42",
+      "valor": "1500,00",
+      "empresa_id": "1",
+      "id": 7,
+      "categoria_id": "valor1"
+    },
+    {
+      "produto": "camiseta basica",
+      "foto": "https://a-static.mlcdn.com.br/618x463/camiseta-preta-muse-foto-grupo-bandalheira/accordesartstudio/17588-4348/8d360c04e4b239a392289724429e7c0a.jpg",
+      "descricao": "camiseta estampada com personagem de herói marvel",
+      "valor": "45,00",
+      "categoria_id": "valor2",
+      "empresa_id": "3",
+      "id": 10
+    },
+    {
+      "produto": "saia de renda",
+      "foto": "https://photos.enjoei.com.br/jaqueta-jeans-fato-basico-50444266/1200xN/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy81OTAzMjM2L2RhNDdjYzUyODE3ZDU3NjE0YzJkMWViMmI2ZTY4YjQxLmpwZw",
+      "descricao": "teste Imagem 2 Calca skiny, tamanho 38, coleção inverno 2021, azul escuro com detalhes na lavagem",
+      "valor": "15,24",
+      "categoria_id": "",
+      "empresa_id": "1",
+      "id": 11
+    }
+  ]
+}
